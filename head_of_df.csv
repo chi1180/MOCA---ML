@@ -1,0 +1,6 @@
+,date,hour,stop_id,stop_name,stop_type,latitude,longitude,is_base_point,population_density,month,day_of_week,is_holiday,temperature,precipitation,passenger_count
+0,2023-01-01,6,35bc3055-caf4-4e74-806b-894695ffb324,ダム観測所,get_off,34.52647351,132.77639508,1,345.8,1,6,1,2.9,0.0,1
+1,2023-01-01,6,59ae4342-2b0f-4bb5-a7b3-79e5bcd9cd2a,三木矢橋,get_on_off,34.52718947,132.73928404,1,246.4,1,6,1,2.9,0.0,0
+2,2023-01-01,6,7ad877f4-db1b-4bb1-9990-663dbc2da013,下之谷,get_on_off,34.53406595,132.75321007,1,328.9,1,6,1,2.9,0.0,0
+3,2023-01-01,6,32ab1e62-8707-411c-9ee4-d477d307ab3f,久芳,get_on,34.53661135,132.78067589,1,364.8,1,6,1,2.9,0.0,0
+4,2023-01-01,6,3e730251-da24-42b7-b083-598d70b73704,最東北端,get_on_off,34.55584068,132.79458046,1,231.3,1,6,1,2.9,0.0,1
